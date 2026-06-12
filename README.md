@@ -1,7 +1,7 @@
 # lld-food-delivery-zomato-swiggy
 Low Level Design of Food delivery app - Zomato, Swiggy, UberEats
 
-# Requirements
+# Requirements 
 1. Restaurant can register themselves.
 2. User can create, update, delete, get their profiles.
 3. User can search for the restaurant using restaurant name, city name.
